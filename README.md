@@ -1,1 +1,1 @@
-# Text_mining_project
+# TEXT CLASSIFICATION OF HEAVILY IMBALANCED DATA USING SIMILARITY BASED APPOACHES![image](https://user-images.githubusercontent.com/54530006/111721204-b3846100-885f-11eb-80fa-0b36426e63fb.png)
