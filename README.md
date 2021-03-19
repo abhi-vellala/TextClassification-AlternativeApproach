@@ -4,7 +4,10 @@
 The modern text classification approaches uses the combination of two documents to classify them for their relation(label). Even though they are performing well, this project attempts to find few alternative approaches which uses similarity of independent document and classify the labels. 
 
 - Data is collected from "WSDM - Fake News Classification"(https://www.kaggle.com/c/fake-news-pair-classification-challenge)
-- NLP library used - SpaCy(https://spacy.io/)
+- NLP library used 
+  1. SpaCy(https://spacy.io/)
+  2. Gensim(https://radimrehurek.com/gensim/)
+
 - Vectorizers:
   1. Term Frequency - Inverse Document frequency(TF-IDF) Vectorizer 
   2. Count Vectorizer
